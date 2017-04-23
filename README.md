@@ -27,15 +27,11 @@ Polymer 1.0 is out!
 
 Add this line to your application's Gemfile:
 
-    gem 'polymer-rails'
+    gem 'polymer-rails', :git => 'https://github.com/lmtien/polymer-rails.git'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install polymer-rails
 
 ## Usage
 
@@ -74,16 +70,14 @@ You may also be interested in Polymer paper elements, they are also available as
 
 See example Rails application here [http://polymer-rails-example.herokuapp.com/](http://polymer-rails-example.herokuapp.com/)
 
-Source code can be found here [https://github.com/alchapone/polymer-rails-example](https://github.com/alchapone/polymer-rails-example)
+Another example application here [https://coffee-shop-polymer.herokuapp.com/](https://coffee-shop-polymer.herokuapp.com/)
+Source code can be found here [https://github.com/lmtien/polymer-rails-example](https://github.com/lmtien/polymer-rails-example)
 
 ## Learn more
 
- You can check out http://customelements.io/ or http://component.kitchen/ to see what components are already built by community.
+You can check out http://customelements.io/ or http://component.kitchen/ to see what components are already built by community.
 
-## Contributing
+## Disclaimer
+This is forked project from [https://github.com/alchaplinsky](alchaplinsky), so if you want to see the original project, please go here: [https://github.com/alchaplinsky/polymer-rails](https://github.com/alchaplinsky/polymer-rails). I highly recommend you to check out the original project if you are interested in `polymer-rails`.
 
-1. Fork it ( http://github.com/alchapone/polymer-rails/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+This project for me to upgrade the version of polymer to latest, mainly for my own personal uses. However everyone is welcome to use this project.
