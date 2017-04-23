@@ -78,6 +78,6 @@ Source code can be found here [https://github.com/lmtien/polymer-rails-example](
 You can check out http://customelements.io/ or http://component.kitchen/ to see what components are already built by community.
 
 ## Disclaimer
-This is forked project from [https://github.com/alchaplinsky](alchaplinsky), so if you want to see the original project, please go here: [https://github.com/alchaplinsky/polymer-rails](https://github.com/alchaplinsky/polymer-rails). I highly recommend you to check out the original project if you are interested in `polymer-rails`.
+This is forked project from [alchaplinsky](https://github.com/alchaplinsky), so if you want to see the original project, please go here: [https://github.com/alchaplinsky/polymer-rails](https://github.com/alchaplinsky/polymer-rails). I highly recommend you to check out the original project if you are interested in `polymer-rails`.
 
 This project for me to upgrade the version of polymer to latest, mainly for my own personal uses. However everyone is welcome to use this project.
